@@ -1,0 +1,15 @@
+{
+  "name": "javascript_budget_app",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
